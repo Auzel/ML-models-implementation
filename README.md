@@ -1,2 +1,2 @@
 # ML-models-implementation
-Basic implementation of ML models
+The code here is my implementation of some popular ML models.
